@@ -114,5 +114,11 @@ packloadall
 " Load all of the helptags now, after plugins have been loaded.
 " All messages and errors will be ignored.
 silent! helptags ALL
+
+" vi: ft=vim
 ```
+
+## License
+
+Distributed under the GNU Affero General Public License version 3.
 
